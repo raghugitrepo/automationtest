@@ -1,2 +1,3 @@
 # automationtest
-Repo for mobile app automation
+Repo for mobile app
+Test text
